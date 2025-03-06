@@ -298,6 +298,10 @@ p {
 .thank-you-img {
   margin: 0.5rem 0 1.5rem;
 }
+.thank-you-img img {
+    display: block;
+    margin: 0 auto;
+  }
 .rating-result {
   background-color: hsl(213, 19%, 22%);
   color: var(--orange);
