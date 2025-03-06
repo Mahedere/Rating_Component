@@ -24,9 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-![./demo 1.png]
-![](./demo 2.png)
-![](./demo 3.png)
+![Demo 1](./demo%201.png)  
+![Demo 2](./demo%202.png)  
+![Demo 3](./demo%203.png)  
+
 
 ### Links
 
