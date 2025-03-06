@@ -4,14 +4,10 @@
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
-
-## Overview
 
 ### The challenge
 
@@ -25,16 +21,12 @@ Users should be able to:
 ### Screenshot
 
 ![Demo 1](./demo%201.png)  
-![Demo 2](./demo%202.png)  
-![Demo 3](./demo%203.png)  
 
 
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-2lrJzHm5g2](https://www.frontendmentor.io/solutions/interactive-rating-component-2lrJzHm5g2)
 - Live Site URL: [https://mahiratingcomponent.netlify.app/](https://mahiratingcomponent.netlify.app/)
-
-## My process
 
 ### Built with
 
@@ -44,6 +36,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Mahedere Tebebe](https://www.your-site.com)
+- Website - [Mahedere Tebebe](https://mahederetebebe.framer.website/)
 - Frontend Mentor - [@Mahedere](https://www.frontendmentor.io/profile/Mahedere)
 
